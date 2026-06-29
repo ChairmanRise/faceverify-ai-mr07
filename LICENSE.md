@@ -1,4 +1,4 @@
-# 
+# Exclusivo FaceVerify instalador. Descarga e instala con implementación local y guía paso a paso — rápido, seguro y fácil de usar.
 
 
 
